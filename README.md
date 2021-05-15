@@ -1,5 +1,7 @@
 # Projetos Python
-Projetos em Python
+Projetos desenvolvidos em Python
+
+- Banco
 - Jogo
 - Mercado
-- Banco
+
