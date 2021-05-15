@@ -1,2 +1,5 @@
-# Projetos-Python
+# Projetos Python
 Projetos em Python
+- Jogo
+- Mercado
+- Banco
