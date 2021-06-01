@@ -1,1 +1,1 @@
-Projeto de um mercado
+Projeto de uma cantina inteligente da ECT
