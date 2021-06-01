@@ -1,1 +1,1 @@
-Projeto de um jogo
+Projeto de um jogo de matemática de diversas dificuldades
